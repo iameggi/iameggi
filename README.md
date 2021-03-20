@@ -2,7 +2,7 @@
 
 
 
-## little bit about me
+## Introduction ✋
  Hey im Eggy or FHR, i'm just who people Astrophile ✨ and Pluviophile ☂️, i'm an backend developer and bit know about frontend to, and im people who learning machine learning a lot, also im It enthusiast, i love learning about IT and random stuff.
  
 ## Hai i have blog, check it out 🚀
