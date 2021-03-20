@@ -1,4 +1,4 @@
-# <img src="https://www.flaticon.com/svg/vstatic/svg/2086/2086569.svg?token=exp=1616272866~hmac=cbfdff98eef37d789cf47ffd9baddb05" width="30px"> Hello, there
+# <img src="https://github.com/iameggi/iameggi/blob/main/src/astr.png" width="30px"> Hello, there
 
 
 
