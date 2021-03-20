@@ -1,4 +1,4 @@
-# <img src="https://github.com/iameggi/iameggi/blob/main/src/astr.png" width="30px"> Hello, there
+# <img src="https://github.com/iameggi/iameggi/blob/main/src/astr.png" width="40px"> Hello, there
 
 
 
