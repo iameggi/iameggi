@@ -21,6 +21,11 @@
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:work.eggifhr21@gmail.com)
 
 
+✨ Another social
+[![Codewars](https://img.shields.io/badge/--dev?label=Codewars&logo=codewars&style=social)](https://www.codewars.com/users/iameggi)
+[![Qwiklabs](https://img.shields.io/badge/--dev?label=Qwiklabs&logo=qwiklabs&style=social)](https://www.qwiklabs.com/public_profiles/435e2838-6ac1-402e-8e62-acc75ed280e2)
+
+
 ⚙ Language and tools i prefer
 
 ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=Javascript)
