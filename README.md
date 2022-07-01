@@ -1,8 +1,8 @@
-# <img src="https://github.com/iameggi/iameggi/blob/main/src/astr.png" width="40px"> Hello, there
+# <img src="https://github.com/iameggi/iameggi/blob/main/src/astr.png" width="40px"> I'am Eggi or FHR
 
 
 
-## Introduction 👋🏼
+## Hello, there 👋🏼
  Hey im Eggy or FHR, i'm just who people Astrophile ✨ and Pluviophile ☂️, i'm an backend developer (Js stack / golang ) and bit know about frontend, and im people who learning machine learning a lot, also im It enthusiast, i love learning about IT and random stuff.
  
 ## Hey, i have blog, check it out 🚀
