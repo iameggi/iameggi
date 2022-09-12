@@ -3,7 +3,7 @@
 
 
 ## Hello, there 👋🏼
- Im Eggy FHR, am really enthusiastic for learning programming language, till now i learn **Golang**, **Rust**, **Javascript or Typescript, **Java** and bit about **Google cloud platform** 
+ Im Eggy FHR, am really enthusiastic for learning programming language, till now i learn **Golang**,**Rust** , **Javascript or Typescript**, **Java** and bit about **Google cloud platform** 
 
 Fun fact im an Pluviophile, Astrophile, and Nyctophile ☂️🪐🌙
 also im love to reading and listening lot of music 🎧
