@@ -1,9 +1,12 @@
-# <img src="https://github.com/iameggi/iameggi/blob/main/src/astr.png" width="40px"> I'am Eggi or FHR
+# <img src="https://github.com/iameggi/iameggi/blob/main/src/astr.png" width="40px"> I'am EggiFHR
 
 
 
 ## Hello, there 👋🏼
- Hey im Eggy or FHR, i'm just who people Astrophile ✨ and Pluviophile ☂️, i'm an backend developer (Js stack / golang ) and bit know about frontend, and im people who learning machine learning a lot, also im It enthusiast, i love learning about IT and random stuff.
+ Im Eggy FHR, am really enthusiastic for learning programming language, till now i learn **Golang**, **Rust**, **Javascript or Typescript, **Java** and bit about **Google cloud platform** 
+
+Fun fact im an Pluviophile, Astrophile, and Nyctophile ☂️🪐🌙
+also im love to reading and listening lot of music 🎧
  
 ## Hey, i have blog, check it out 🚀
 
